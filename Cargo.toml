@@ -11,7 +11,7 @@ path = "server/main.rs"
 [dependencies]
 corsware = "0.2.*"
 hubcaps = "0.5.*"
-hyper = "0.12.*"
+hyper = "0.14.*"
 hyper-tls = "0.3.*"
 iron = "0.6.*"
 router = "0.6.*"
